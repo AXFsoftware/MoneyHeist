@@ -3,10 +3,6 @@
 */
 
 /*
-
-EverRise is built upon the fundamentals of Buyback and increasing the investor's value
-    
-Main features are
     
 1) 2% tax is collected and distributed to holders for HODLing
 2) 9% buyback and marketing tax is collected and 3% of it is sent for marketing fund and othe 6% is used to buyback the tokens
