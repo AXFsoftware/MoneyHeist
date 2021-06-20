@@ -5,7 +5,7 @@
 /*
     
 1) 2% tax is collected and distributed to holders for HODLing
-2) 9% buyback and marketing tax is collected and 3% of it is sent for marketing fund and othe 6% is used to buyback the tokens
+2) 10% buyback and marketing tax is collected and 3% of it is sent for marketing fund and othe 6% is used to buyback the tokens
 
 .##...##...####...##..##..######..##..##..##..##..######..######...####...######.
 .###.###..##..##..###.##..##.......####...##..##..##........##....##........##...
